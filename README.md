@@ -22,7 +22,7 @@ python3 bitcoin_block_clock.py
 ## 🍻 Support / Tip Jar
 
 This project is free and will always be free — enjoy! 🙂
-If it saved you time or made crypto tracking a little easier, and you’d like to buy me a beer (totally optional), you can tip here:
+If it saved you time or made bitcoin tracking a little easier, and you’d like to buy me a beer (totally optional), you can tip here:
 
 - **Bitcoin (on-chain):** `bc1qxzgdwc9pgggram8jtnhsmrhdk5pvw8tx6h7qmj`
 - **Bitcoin Lightning:** `cloudyhubcap91@walletofsatoshi.com`
