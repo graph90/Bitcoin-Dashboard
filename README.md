@@ -1,6 +1,7 @@
 # Bitcoin Dashboard
 
-An interactive Bitcoin dashboard built in Python. Track live BTC price, dominance, mempool stats, transaction fees, and even see a $100 invested 5 years ago tracker.
+An interactive Bitcoin dashboard built in Python. Track live BTC price, dominance, mempool stats, transaction fees, and the `$100 invested 5 years ago` tracker.
+
 
 ## Features
 - Live Bitcoin price
