@@ -8,7 +8,7 @@ An interactive Bitcoin dashboard built in Python. Track live BTC price, dominanc
 - BTC dominance
 - Current block height and countdown to next block
 - Mempool stats and fees
-- $100 invested 5 years ago tracker
+- `$100 invested 5 years ago` tracker
 
 ## Requirements
 - Python 3
