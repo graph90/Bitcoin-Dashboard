@@ -27,3 +27,4 @@ If it saved you time or made bitcoin tracking a little easier, and you’d like 
 
 - **Bitcoin (on-chain):** `bc1qxzgdwc9pgggram8jtnhsmrhdk5pvw8tx6h7qmj`
 - **Bitcoin Lightning:** `cloudyhubcap91@walletofsatoshi.com`
+- **Monero (XMR):** `4BHHdsAN5FCYgj65PyG6DP7P4H3xgNcxUKtnSddmwM7aV5CQbEz37L3NrN68UAeNm3B7PL9TeaJwYAkjQqFdc8go7gz9ymK`
